@@ -7,7 +7,7 @@ El proyecto consiste en una aplicación tipo "Todo-List" utilizando tecnologías
 #### Componentes del Proyecto
 
 1. **Aplicación Todo-List:**
-   - Desarrollar una aplicación web simple utilizando Node y Express para el backend.
+   - Desarrollar una aplicación web simple utilizando Node.js [20]  y Express para el backend.
    - La aplicación permitirá a los usuarios crear, leer, actualizar y eliminar tareas de una lista.
    - Se integrará con una base de datos Postgres para almacenar las tareas.
    - Nombre de la bases de datos: todos
